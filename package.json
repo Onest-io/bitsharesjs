@@ -38,7 +38,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/bitshares/bitsharesjs.git"
+        "url": "git+https://github.com/Onest-io/bitsharesjs.git"
     },
     "author": "BitShares UI Team <ui-dev@bitshares.org>",
     "contributors": [
@@ -58,7 +58,7 @@
     "jsnext:main": "./es/index.js",
     "dependencies": {
         "bigi": "1.4.2",
-        "bitsharesjs-ws": "^3.1.1",
+        "bitsharesjs-ws": "git+https://github.com/Onest-io/bitsharesjs-ws.git",
         "bs58": "4.0.1",
         "bytebuffer": "5.0.1",
         "create-hash": "1.2.0",
