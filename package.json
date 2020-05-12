@@ -49,7 +49,7 @@
     ],
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/bitshares/bitsharesjs/issues"
+        "url": "https://github.com/Onest-io/bitsharesjs/issues"
     },
     "engines": {
         "node": ">= 6.0.0"
@@ -58,7 +58,7 @@
     "jsnext:main": "./es/index.js",
     "dependencies": {
         "bigi": "1.4.2",
-        "bitsharesjs-ws": "git+https://github.com/ioBanker/bitsharesjs-ws.git",
+        "bitsharesjs-ws": "https://dex.onest.io/bitsharesjs-ws-3.1.1.tgz",
         "bs58": "4.0.1",
         "bytebuffer": "5.0.1",
         "create-hash": "1.2.0",
